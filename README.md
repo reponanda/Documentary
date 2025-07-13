@@ -1,2 +1,2 @@
-# HeroRuby
-Belajar GIT, Materi Sync
+# Document
+1. E-certificate
